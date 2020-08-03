@@ -6,3 +6,4 @@
 - 5_sum_and_count.sql (https://sqlzoo.net/wiki/SUM_and_COUNT)
 - 6_join.sql (https://sqlzoo.net/wiki/The_JOIN_operation)
 - 7_more_join_operations.sql (https://sqlzoo.net/wiki/More_JOIN_operations)
+- 8_using_null.sql (https://sqlzoo.net/wiki/Using_Null)
