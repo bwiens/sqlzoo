@@ -7,3 +7,4 @@
 - 6_join.sql (https://sqlzoo.net/wiki/The_JOIN_operation)
 - 7_more_join_operations.sql (https://sqlzoo.net/wiki/More_JOIN_operations)
 - 8_using_null.sql (https://sqlzoo.net/wiki/Using_Null)
+- 9_self_join.sql (https://sqlzoo.net/wiki/Self_join)
